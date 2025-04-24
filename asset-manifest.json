@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "./static/css/main.96c5e4b0.css",
-    "main.js": "./static/js/main.771cdc8e.js",
-    "static/media/laptop.jpg": "./static/media/laptop.abbd1eb66e871ed59a18.jpg",
-    "static/media/shoes.jpg": "./static/media/shoes.b58b79c745a1573f6c0a.jpg",
-    "index.html": "./index.html",
-    "main.96c5e4b0.css.map": "./static/css/main.96c5e4b0.css.map",
-    "main.771cdc8e.js.map": "./static/js/main.771cdc8e.js.map"
+    "main.css": "/vedikagawand/mad.git/static/css/main.96c5e4b0.css",
+    "main.js": "/vedikagawand/mad.git/static/js/main.747a9501.js",
+    "static/media/laptop.jpg": "/vedikagawand/mad.git/static/media/laptop.abbd1eb66e871ed59a18.jpg",
+    "static/media/shoes.jpg": "/vedikagawand/mad.git/static/media/shoes.b58b79c745a1573f6c0a.jpg",
+    "index.html": "/vedikagawand/mad.git/index.html",
+    "main.96c5e4b0.css.map": "/vedikagawand/mad.git/static/css/main.96c5e4b0.css.map",
+    "main.747a9501.js.map": "/vedikagawand/mad.git/static/js/main.747a9501.js.map"
   },
   "entrypoints": [
     "static/css/main.96c5e4b0.css",
-    "static/js/main.771cdc8e.js"
+    "static/js/main.747a9501.js"
   ]
 }
